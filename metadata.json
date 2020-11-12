@@ -4,9 +4,9 @@
   "author": "eyp",
   "summary": "profile.d settings (alias, environment variables, prompt and umask) and default shell (/bin/sh) management",
   "license": "Apache-2.0",
-  "source": "https://github.com/NTTCom-MS/eyp-bash",
-  "project_page": "https://github.com/NTTCom-MS/eyp-bash",
-  "issues_url": "https://github.com/NTTCom-MS/eyp-bash/issues",
+  "source": "https://github.com/SaltaIT/eyp-bash",
+  "project_page": "https://github.com/SaltaIT/eyp-bash",
+  "issues_url": "https://github.com/SaltaIT/eyp-bash/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0 < 9.9.9"},
     {"name":"puppetlabs/concat","version_requirement":">= 1.2.3 < 9.9.9"}
