@@ -1,7 +1,7 @@
 {
   "name": "eyp-bash",
   "version": "0.1.17",
-  "author": "eyp",
+  "author": "Jordi Prats",
   "summary": "profile.d settings (alias, environment variables, prompt and umask) and default shell (/bin/sh) management",
   "license": "Apache-2.0",
   "source": "https://github.com/SaltaIT/eyp-bash",
