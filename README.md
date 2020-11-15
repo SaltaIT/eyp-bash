@@ -1,6 +1,6 @@
 # bash
 
-**NTTCom-MS/eyp-bash**: [![Build Status](https://travis-ci.org/NTTCom-MS/eyp-bash.png?branch=master)](https://travis-ci.org/NTTCom-MS/eyp-bash)
+**SaltaIT/eyp-bash**: [![Build Status](https://travis-ci.org/SaltaIT/eyp-bash.png?branch=master)](https://travis-ci.org/SaltaIT/eyp-bash)
 
 #### Table of Contents
 
